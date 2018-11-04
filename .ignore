@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlist3
+/static
+.DS_store
+.ipynb_checkpoints
+*.ipynb
